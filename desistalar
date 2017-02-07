@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "Desinstalando..."
-rm /bin/VpsPack
+rm /bin/Pacvps
 rm /bin/UserBack
 rm -r /etc/usuarios /etc/tempo
 rm /bin/Usercreate
